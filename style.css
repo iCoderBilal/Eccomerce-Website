@@ -141,3 +141,16 @@ P{
     padding-left: 25px;
 }
 
+
+/* Featured Product */
+
+.col-4{
+    flex-basis: 25%;
+    min-width:200px ;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.col-4 img{
+    width: 100%;
+}
