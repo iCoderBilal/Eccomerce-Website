@@ -154,3 +154,12 @@ P{
 .col-4 img{
     width: 100%;
 }
+
+
+.small-container .title{
+    position: relative;
+    text-align: center;
+    margin: 0 auto 80px;
+    line-height: 60px;
+    color: #555;
+}
