@@ -336,13 +336,48 @@ small{
     margin-bottom: 20px;
     width: 180px;
 }
+.footer-col-2 p{
+    text-align: justify;
+    margin: 0 17px;
+}
 
 .footer-col-3, .footer-col-4{
     flex-basis: 12%;
     text-align: center;
+    
 }
 
+.footer-col-3 li{
+    padding-left: 75px;
+    text-align: left;
+}
+
+.footer-col-4 li{
+    padding-left: 85px;
+    text-align: left;
+ 
+}
 
 ul{
     list-style-type: none;
+}
+
+.app-logo{
+margin-top: 20px;
+}
+
+
+.app-logo img{
+    width: 140px;
+}
+
+.footer hr{
+    margin: 20px 0;
+    height: 1px;
+    border: none;
+    background-color: #b5b5b5;
+}
+
+.copyright{
+    text-align: center;
 }
